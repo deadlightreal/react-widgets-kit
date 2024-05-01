@@ -1,0 +1,15 @@
+{
+  "name": "react-widgets-kit",
+  "version": "1.0.0",
+  "description": "Library full of react widgets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Widgets"
+  ],
+  "author": "deadlight_npm",
+  "license": "ISC"
+}
